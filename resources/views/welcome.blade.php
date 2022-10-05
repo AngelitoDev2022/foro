@@ -78,7 +78,7 @@
                                 @endif
                             @endauth
                         @endif 
-                    </div>
+                    </div>a
                 </div>
             </div>
         </section>
