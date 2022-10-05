@@ -75,7 +75,7 @@
                                 <a href="{{ route('login') }}" class="learn-btn animated fadeInUp">¿Ya tienes una cuenta?</a>
                                 @if (Route::has('register'))
                                     <a href="{{ route('register') }}" class="use-btn animated fadeInUp">Crea una cuenta</a> 
-                                @endif
+                                @endif....
                             @endauth
                         @endif 
                     </div>a
